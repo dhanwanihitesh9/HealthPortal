@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Health Check Status Report</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+	<div id="dark_container">
+	  <div id="banner">
+	    <div id="welcome">
+	      <h1>Relationship Builder Dev Server Report</h1>
+	    </div><!--close welcome-->
+	  </div><!--close banner-->			
+		<div id="enterprise_server">
+			<table bgcolor="grey" border="0" bordercolor="BLUE" width="75%" align="center">
+				<tr align="center"><td align="center"><font color="Maroon" align="center"><u><b>ES_DEV</b></u></font></td></tr>
+				<tr>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>
+					<td align="center"><img src="images\server.png"></td>					
+				</tr>
+				<tr>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					<td align="center">SS_DEV_1<p>Status : <font color="green">Online</font></p></td>
+					
+				</tr>
+			<table>
+		</div><!--close enterprise_server>
+
+	</div><!--close dark_container-->
+
+  </div><!--close main-->
+  
+  <div id="footer_container">
+    <div id="footer">
+	  <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://fotogrph.com/">Images</a> | website template by <a href="http://www.araynordesign.co.uk">ARaynorDesign</a>
+    </div><!--close footer-->  
+  </div><!--close footer_container-->  
+  
+</body>
+</html>
